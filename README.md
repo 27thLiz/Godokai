@@ -22,3 +22,5 @@ Replace the color definitions in `editor_settings.xml` (located in ~/.godot/ on 
 		<color name="text_editor/current_line_color"> 0.3, 0.5, 0.8, 0.15 </color>
 		<color name="text_editor/word_highlighted_color"> 0.8, 0.9, 0.9, 0.15 </color>
 ```
+
+![screenshot](/../screenshot/screenshot.png?raw=true "Godokai")
